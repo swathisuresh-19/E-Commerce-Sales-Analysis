@@ -4,8 +4,6 @@
 
 This project presents an interactive **E-Commerce Sales Analysis Dashboard** developed using **Google Looker Studio**. The dashboard analyzes sales performance using the Sample Superstore dataset and provides valuable business insights through interactive visualizations. It helps users understand sales trends, regional performance, category-wise analysis, and overall profitability.
 
----
-
 ## 🎯 Objectives
 
 * Analyze overall sales and profit performance.
@@ -15,16 +13,12 @@ This project presents an interactive **E-Commerce Sales Analysis Dashboard** dev
 * Enable interactive filtering for better business analysis.
 * Support data-driven decision making.
 
----
-
 ## 🛠️ Tools & Technologies Used
 
 * Google Sheets
 * Google Looker Studio
 * Sample Superstore Dataset
 * GitHub
-
----
 
 ## 📈 Dashboard Features
 
@@ -36,8 +30,6 @@ This project presents an interactive **E-Commerce Sales Analysis Dashboard** dev
 * Category Filter
 * Interactive Dashboard
 
----
-
 ## 📊 Key Insights
 
 * Technology is the highest-performing category, generating the highest sales and profit.
@@ -48,8 +40,6 @@ This project presents an interactive **E-Commerce Sales Analysis Dashboard** dev
 * Central and South regions have comparatively lower sales, providing opportunities for business growth.
 * Sales fluctuate throughout the year, indicating seasonal demand patterns.
 * Interactive filters allow users to explore performance by region and category.
-
----
 
 ## 📂 Dataset
 
@@ -63,13 +53,7 @@ This project presents an interactive **E-Commerce Sales Analysis Dashboard** dev
   * Profit
   * Customer Details
 
----
-
-
 ## 📌 Business Outcome
 
 The dashboard provides a clear understanding of business performance by identifying high-performing categories, profitable regions, and sales trends. It enables businesses to make informed decisions, improve profitability, and focus on growth opportunities.
-
----
-
 
