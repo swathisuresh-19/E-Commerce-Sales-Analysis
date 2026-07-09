@@ -1,0 +1,12 @@
+Key Insights
+
+Technology is the highest-performing product category, contributing the largest share of total sales and profit.
+Office Supplies generated consistent sales, while Furniture recorded comparatively lower profitability.
+The business achieved **Total Sales of approximately $2.30 Million, reflecting strong overall revenue generation.
+Total Profit reached approximately $286K, indicating healthy business performance despite varying profit margins across product categories.
+The West region contributed the highest percentage of sales (31.6%), followed by the **East** (29.5%), making them the strongest regional markets.
+The Central and South regions contributed a smaller share of sales, highlighting opportunities for market expansion and targeted business strategies.
+Sales fluctuated over time, indicating the presence of seasonal demand patterns and changing customer purchasing behavior.
+Interactive Region and Category filters enable users to analyze performance across different business segments and identify high-performing or underperforming areas.
+The dashboard provides decision-makers with a clear overview of sales trends, regional performance, category-wise profitability, and overall business growth.
+These insights can help businesses optimize inventory, improve marketing strategies, focus on profitable product categories, and support data-driven decision-making.
